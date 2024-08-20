@@ -1,6 +1,8 @@
 body {
   text-align: center;
   background: linear-gradient(45deg, #283149, #DA0463);
+  width: 100wh;
+ overflow: hidden;
 }
 
 h1 {
@@ -77,3 +79,16 @@ h1 {
   margin: 10px;
   background-color: white;
 }
+
+footer{
+  
+  color: #DBEDF3;
+  left: 87%;
+  position: fixed;
+  bottom: 0;
+  width: 15%;
+}
+footer a {
+  text-decoration: none;
+  color: #DBEDF3;
+} 
